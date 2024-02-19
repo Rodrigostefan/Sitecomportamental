@@ -106,6 +106,10 @@ footer{
 
     }
 
+    footer{
+    font-size: 10px;
+    }
+
     .titulo {
         font-size: 20px;
         padding-left:20px ;
@@ -141,8 +145,7 @@ footer{
         height: 140px;
     }
 
-    footer{
-    font-size: 10px;
-    }
-
+    
 }
+
+
